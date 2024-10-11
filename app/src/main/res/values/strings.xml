@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">tictactoegame</string>
+    <string name="reset_game">Сбросить игру</string>
+    <string name="player1">Игрок 1</string>
+    <string name="player2">Игрок 2</string>
+    <string name="player1_score">Игрок 1: 0</string>
+    <string name="player2_score">Игрок 2: 0</string>
+    <string name="button_description_1">Кнопка 1 для ввода X или O</string>
+    <string name="button_description_2">Кнопка 2 для ввода X или O</string>
+    <string name="button_description_3">Кнопка 3 для ввода X или O</string>
+    <string name="button_description_4">Кнопка 4 для ввода X или O</string>
+    <string name="button_description_5">Кнопка 5 для ввода X или O</string>
+    <string name="button_description_6">Кнопка 6 для ввода X или O</string>
+    <string name="button_description_7">Кнопка 7 для ввода X или O</string>
+    <string name="button_description_8">Кнопка 8 для ввода X или O</string>
+    <string name="button_description_9">Кнопка 9 для ввода X или O</string>
+</resources>
