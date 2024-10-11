@@ -12,8 +12,9 @@ Tic Tac Toe Game - это простая игра на платформе Androi
 - Возможность сброса игры.
 - Реализация проверки победителя.
 
-Технологии
-Java
-Android SDK
-XML (для разметки интерфейса)
+## Технологии
+- Java
+- Android SDK
+- XML (для разметки интерфейса)
+![Screenshots](https://github.com/KazbekovAktenir/tictactoegame/blob/main/tictactoe.png)
 
