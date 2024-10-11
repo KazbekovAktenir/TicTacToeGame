@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+![Screenshots](https://github.com/KazbekovAktenir/tictactoegame/blob/main/tictactoe.png)
+
 ## Описание
 Tic Tac Toe Game - это простая игра на платформе Android, выполненная на языке Java.
 Игроки поочередно ставят свои знаки (X и O) на поле 3x3,
@@ -16,5 +18,5 @@ Tic Tac Toe Game - это простая игра на платформе Androi
 - Java
 - Android SDK
 - XML (для разметки интерфейса)
-![Screenshots](https://github.com/KazbekovAktenir/tictactoegame/blob/main/tictactoe.png)
+
 
